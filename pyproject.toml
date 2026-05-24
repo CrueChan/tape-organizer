@@ -1,0 +1,12 @@
+[project]
+name = "tape-organizer"
+version = "4.0.0"
+description = "Auto-arrange music tracks across both sides of a cassette tape and export named M3U8 playlists"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mutagen>=1.47.0",
+]
+
+[project.scripts]
+tape-organizer = "main:main"
