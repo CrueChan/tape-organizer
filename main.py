@@ -430,7 +430,7 @@ def print_side(label: str, tracks: List[Track], used: float, tape_side: float) -
 def main() -> None:
     print()
     print(f"  {MAG}╔══════════════════════════════════════════════╗{RST}")
-    print(f"  {MAG}║{RST}     🎵  {BOLD}{MAG}Mixtape Organizer{RST}  v4.0"
+    print(f"  {MAG}║{RST}     🎵  {BOLD}{MAG}Mixtape Organizer{RST}  v2.0"
           f"              {MAG}║{RST}")
     print(f"  {MAG}║{RST}  Auto-fill both sides of a cassette tape"
           f"     {MAG}║{RST}")

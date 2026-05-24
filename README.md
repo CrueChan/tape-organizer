@@ -4,7 +4,7 @@ Auto-arrange your music collection across both sides of a cassette tape and expo
 
 ```
   ╔══════════════════════════════════════════════╗
-  ║     🎵  Mixtape Organizer  v4.0              ║
+  ║     🎵  Mixtape Organizer  v2.0              ║
   ║  Auto-fill both sides of a cassette tape     ║
   ║  by CrueChan                                 ║
   ╚══════════════════════════════════════════════╝
